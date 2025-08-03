@@ -1,5 +1,4 @@
 Robot Joint – Onshape Design
-بما أن القطعة هي **مفصل للروبوت**، سأعيد صياغة الـ README ليكون أوضح ويشرح الغرض منها
 
 # **Robot Joint – Onshape Design**
 
